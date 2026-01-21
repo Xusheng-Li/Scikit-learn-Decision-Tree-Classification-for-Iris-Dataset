@@ -1,2 +1,2 @@
 # Scikit-learn-Decision-Tree-Classification-for-Iris-Dataset
-A beginner-friendly Scikit-learn practice project: Implement decision tree classification for the classic Iris dataset, covering framework configuration, data preprocessing, model building and parameter tuning.
+This project focuses on the application and practice of the Scikit-learn open-source machine learning framework, with a core goal of implementing a decision tree classification algorithm to classify the classic Iris dataset. It is suitable for beginners in machine learning who want to get familiar with Scikit-learn configuration, data preprocessing, model building, and parameter tuning.
